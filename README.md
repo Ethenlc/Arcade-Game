@@ -2,11 +2,9 @@
 
 This is a simple game using pygame. It's a game where you're controlling a car and trying to dodge other cars on the road as you're driving past. You control it with your arrow keys and the longer you're alive, the higher your score. 
 
-The purpose of writing this software was to practice using pygame to create a game that could be used for fun.
+The purpose of writing this software was to practice using pygame to create a game that could be used for fun. Here is a demonstration of my program as well as a deeper explanation.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Racing Pygame Demo](https://youtu.be/AJmWgQKozdE)
 
 # Development Environment
 
