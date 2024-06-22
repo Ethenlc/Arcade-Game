@@ -12,7 +12,6 @@ I used pygame to implement this program. I found lots of good information online
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Arcade Examples](https://api.arcade.academy/en/latest/examples/index.html)
 * [RealPython - Arcade Tutorials](https://realpython.com/arcade-python-game-framework/)
 * [Pygame Official Website](https://www.pygame.org/news)
